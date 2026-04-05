@@ -1,3 +1,6 @@
+
+[![Step 4](https://github.com/UPT-FAING-EPIS/ayala_skills-test-with-actions/actions/workflows/4-step.yml/badge.svg)](https://github.com/UPT-FAING-EPIS/ayala_skills-test-with-actions/actions/workflows/4-step.yml)
+
 # Test with Actions
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
